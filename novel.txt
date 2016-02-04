@@ -1,2 +1,3 @@
 Hello, today was a good day.
+It was a good day, but Git is making my head hurt.
 
